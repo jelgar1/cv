@@ -1,6 +1,16 @@
 ## Jonathan Gardiner
 
-I'm an enthusiastic and code passionate recent Makers Academy graduate, looking for a junior developer position. After gaining a distinction in an International Business MSc, I had a successful career as a data driven digital marketer working in Montpellier and then London, primarily for tech startups. Having finished Makers Academy, a 12 week coding bootcamp, I'm currently looking for my first developer role, in a team environment where in which I can learn quickly and contribute early on.
+I'm an enthusiastic and code passionate recent Makers Academy graduate, looking for a developer position. After gaining a distinction in an International Business MSc, I had a successful career as a data driven digital marketer working in Montpellier and then London, primarily for tech startups. Having finished Makers Academy, a 12 week coding bootcamp, I'm currently looking for my first developer role, in a team environment where in which I can learn quickly and contribute early on.
+
+## Projects
+
+Project | Description | Technologies | Testing
+--- | --- | --- | ---
+[Politify](https://github.com/jelgar1/politify) | An online platform to encourage voters to find out more about their local MP. | Angular JS, Firebase, Various APIs | Karma, Protractor
+[Bowling Calculator](https://github.com/jelgar1/bowling-challenge) | An online scorecard which counts and adds the scores of a bowling game. | Javascript, jQuery, HTML, CSS | Jasmine
+[To-Do List](https://github.com/jelgar1/todo_challenge) | An interactive online to-do list. | Angular JS, jQuery |  Jasmine, Protractor, Karma
+[HoliDice](https://github.com/jelgar1/HoliDice) | A random flights finder. | Angular JS | Karma, Protractor
+[Personal Website](https://jelgar1.github.io/) | My own website, a recent project to practice front-end. | HTML, CSS, Sass | -
 
 ## Skills
 
@@ -22,17 +32,10 @@ I can quickly adapt to challenging situations and like taking risks and constant
 - At Makers Academy we're challenged with new technologies each week. I've continued this approach after the course recently looking into Sass.
 
 #### Organisation
+Especially in my previous career, I've had a lot of responsibility for organising projects and events.
 - At Brainient I organised our stand and attendance at DMEXCO, Europe's largest digital marketing conference. I was also in charge of organising our own quarterly event for around 200 clients, press and potential customers.
 - Every month at BIME Analytics, I was in charge of sending the company newsletter. It always needed a large amount of input from upper management, who were often busy and traveling. Throughout my time there it was sent off on time and to very high standards.
-
-## Projects
-
-Project | Description | Technologies | Testing
---- | --- | --- | ---
-[Politify](https://github.com/jelgar1/politify) | An online platform to encourage voters to find out more about their local MP. | Angular JS, Firebase, Various APIs | Karma, Protractor
-[Bowling Calculator](https://github.com/jelgar1/bowling-challenge) | An online scorecard which counts and adds the scores of a bowling game. | Javascript, jQuery, HTML, CSS | Jasmine
-[To-Do List](https://github.com/jelgar1/todo_challenge) | An interactive online to-do list. | Angular JS, jQuery |  Jasmine, Protractor, Karma
-[HoliDice](https://github.com/jelgar1/HoliDice) | A random flights finder. | Angular JS | Karma, Protractor |
+- Completed our Makers Academy final project. We had a hard deadline of 2 weeks so daily stand-ups, retrospectives and good organisation was essential.
 
 ## Education
 
@@ -59,7 +62,9 @@ Project | Description | Technologies | Testing
 
 **Company 85** (May 2015 to August 2015)    
 *Marketing Executive*  
-**Brainient** (March 2014 to November 2014)   
+
+**Brainient** (March 2014 to November 2014)  
 *Marketing Manager*
+
 **BIME Analytics** (July 2011 to December 2013)
 *Web Marketing Manager*
