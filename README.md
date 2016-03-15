@@ -60,11 +60,11 @@ Particularly, in my previous career, I've had a lot of responsibility for organi
 
 ## Experience
 
-**Company 85** (May 2015 to August 2015)   
+**Company 85** - IT consultancy, London (May 2015 to August 2015)   
 *Marketing Executive*
 
-**Brainient** (March 2014 to November 2014)  
+**Brainient** - Ad-Tech startup, London (March 2014 to November 2014)  
 *Marketing Manager*
 
-**BIME Analytics** (July 2011 to December 2013)     
+**BIME Analytics** - Cloud BI startup, Montpellier (July 2011 to December 2013)     
 *Web Marketing Manager*
