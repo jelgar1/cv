@@ -7,7 +7,7 @@ I'm an enthusiastic and code passionate recent Makers Academy graduate, looking 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
 [Politify](https://github.com/jelgar1/politify) | An online platform to encourage voters to find out more about their local MP. (group project) | Angular JS, Firebase, Various APIs | Karma, Protractor
-[Bowling Calculator](https://github.com/jelgar1/bowling-challenge) | An online scorecard which counts and adds the scores of a bowling game. | Javascript, jQuery, HTML, CSS | Jasmine
+[Bowling Calculator](https://github.com/jelgar1/bowling-challenge) | An online scorecard which adds the scores of a bowling game. | Javascript, jQuery, HTML, CSS | Jasmine
 [To-Do List](https://github.com/jelgar1/todo_challenge) | An interactive online to-do list. | Angular JS, jQuery |  Jasmine, Protractor, Karma
 [HoliDice](https://github.com/jelgar1/HoliDice) | A random flights finder. (group project) | Angular JS | Karma, Protractor
 [Personal Website](https://jelgar1.github.io/) | My own website, a recent project to practice front-end. | HTML, CSS, Sass | -
