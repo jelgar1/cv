@@ -68,3 +68,8 @@ Particularly, in my previous career, I've had a lot of responsibility for organi
 
 **BIME Analytics** - Cloud BI startup, Montpellier (July 2011 to December 2013)     
 *Web Marketing Manager*
+
+## Personal Interests
+- **Music**: Taught myself guitar, gig goer and general music enthusiast
+- **Technology & Gaming**: I like reading the tech blogs (Wired, TechCrunch, Polygon...)
+- **Sport**: I'll watch just about any sport, I like staying active with regular gym and evening runs around London
