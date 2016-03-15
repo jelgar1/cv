@@ -22,12 +22,12 @@ I'm comfortable presenting to groups of people and getting my ideas and informat
 
 - At BIME Analytics I built marketing dashboards and communicated with our CEO so she could then present out company marketing performance to the board of investors. I was also responsible for the customer reference program which would involve constantly liaising with our customers.
 
-- Presented our final project (Politify) to a room of a few hundred people and even managed a few laughs (with me, not at me!).
+- I presented our final project (Politify) to a room of a few hundred people and even managed a few laughs (with me, not at me!).
 
 #### Comfortable in challenging situations
 I can quickly adapt to challenging situations and like taking risks and constantly challenging and improving myself.
 
-- For my first full time job at BIME Analytics I moved to Montpellier in the south of France. I barely knew the language, I didn't know anyone in the city and it was a completely new industry for me. I ended up staying for a fantastic 2 years. While I was there the number of free trial signups more than doubled.
+- For my first full time job at BIME Analytics I moved to Montpellier in the south of France. I barely knew the language, I didn't know anyone in the city and it was a completely new industry for me. I ended up staying for a fantastic 2 years. While I was there the number of free trial signups more than doubled and web traffic increased by over 50%.
 
 - At Makers Academy we're challenged with new technologies each week. I've continued this approach after the course recently looking into Sass.
 
