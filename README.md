@@ -1,6 +1,6 @@
 ## Jonathan Gardiner
 
-I'm an enthusiastic and code passionate recent Makers Academy graduate, looking for a developer position. After gaining a distinction in an International Business MSc, I had a successful career as a data driven digital marketer working in Montpellier and then London, primarily for tech startups. Having finished Makers Academy, a 12 week coding bootcamp, I'm currently looking for my first developer role, in a team environment where in which I can learn quickly and contribute early on.
+I'm an enthusiastic and code passionate recent Makers Academy graduate, looking for a developer position. After gaining an MSc in International Business Management, I had a successful career as a data driven digital marketer working in Montpellier, France and London, primarily for tech startups. Having finished Makers Academy, a 12 week coding bootcamp, I'm currently looking for my first developer role, in a team environment where in which I can learn quickly and contribute early on.
 
 ## Projects
 
@@ -60,8 +60,8 @@ Especially in my previous career, I've had a lot of responsibility for organisin
 
 ## Experience
 
-**Company 85** (May 2015 to August 2015)    
-*Marketing Executive*  
+**Company 85** (May 2015 to August 2015)   
+*Marketing Executive*
 
 **Brainient** (March 2014 to November 2014)  
 *Marketing Manager*
