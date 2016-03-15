@@ -66,5 +66,5 @@ Particularly, in my previous career, I've had a lot of responsibility for organi
 **Brainient** (March 2014 to November 2014)  
 *Marketing Manager*
 
-**BIME Analytics** (July 2011 to December 2013)
+**BIME Analytics** (July 2011 to December 2013)     
 *Web Marketing Manager*
