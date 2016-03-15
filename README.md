@@ -32,7 +32,7 @@ I can quickly adapt to challenging situations and like taking risks and constant
 - At Makers Academy we're challenged with new technologies each week. I've continued this approach after the course recently looking into Sass.
 
 #### Organisation
-Especially in my previous career, I've had a lot of responsibility for organising projects and events.
+Especially in my previous career, I've had a lot of responsibility for organising projects and events, often with a lot of moving parts.
 - At Brainient I organised our stand and attendance at DMEXCO, Europe's largest digital marketing conference. I was also in charge of organising our own quarterly event for around 200 clients, press and potential customers.
 - Every month at BIME Analytics, I was in charge of sending the company newsletter. It always needed a large amount of input from upper management, who were often busy and traveling. Throughout my time there it was sent off on time and to very high standards.
 - Completed our Makers Academy final project. We had a hard deadline of 2 weeks so daily stand-ups, retrospectives and good organisation was essential.
